@@ -1,0 +1,1 @@
+https://api.data.gov.sg/v1/environment/air-temperature
